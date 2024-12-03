@@ -1,0 +1,1 @@
+escolhidos<-sample(1:30,5,replace = FALSE)
